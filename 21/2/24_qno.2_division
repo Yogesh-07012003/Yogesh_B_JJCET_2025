@@ -1,0 +1,45 @@
+#The provided code stuh reads two integers, a and, from STOIN
+
+#Add logic to print two lines. The first line should contain the result of integer division, w// & The second line should contain the result of float division, a/h
+
+#Na munding or formamng is necessary
+
+#Example
+
+-3
+
+#The result of the mteger division 3//50.
+
+#The result of the float division is 3/30.6.
+
+#Print
+
+0
+0.6
+
+#Input Format
+
+#The fint line contains the first integer, e. The second lane contains the second integer, h
+
+#Output Format
+
+#Print the two lines as described ahom.
+
+#Sample Input o
+
+4
+3
+
+#Sample Output 0
+
+1
+1.33333333333
+
+Program :
+
+a = int(input())
+b = int(input())
+c = a//b
+print(c)
+d = a/b
+print(d)
