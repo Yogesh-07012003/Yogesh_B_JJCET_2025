@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Events</title>
+        <link rel="icon" href="./img/date.png">
+    </head>
+
+    <body bgcolor="black" style="color:honeydew">
+        <center>
+            <h1>UPCOMING EVENTS 📅 </h1>
+            <p>Don't miss any of your events.Here are the importants events you have register for!</p>
+        </center> <br>
+        <hr>
+
+        <p>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis impedit in minima quo quas laborum, iure adipisci corporis eius eum consequuntur sequi accusantium dolores ex veniam fugit odit. Nobis libero illum pariatur mollitia eaque obcaecati itaque repellendus impedit in. Illo praesentium dignissimos iusto libero magni ipsum adipisci, quia architecto aut soluta voluptatibus tempore error eius asperiores, consequuntur quae in veniam quaerat ad? Tempore voluptatum, excepturi accusamus quis aperiam error iusto aut explicabo minus maiores sit quibusdam, fuga, magnam nulla! Eos enim ipsam repellat qui quibusdam facere consequuntur, sit suscipit corrupti doloribus, error deserunt ex, inventore ipsa culpa accusamus alias tenetur?
+        </p>
+        <center>
+        <img src="./img/event1.png">
+
+        <h1>photo gallery</h1>
+        <h2>free entry|free food|pets are not allowed</h2>
+        </center>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque nulla odio doloremque illum, beatae repellendus consequatur et iusto doloribus accusamus totam alias facilis minus laboriosam ratione voluptatem sapiente impedit! Quis, autem consequatur aliquam ea repellat ipsam sint fugiat asperiores necessitatibus dicta ipsum velit quae! Vitae illo dolore sed necessitatibus eveniet?
+        </p>
+
+        <center>
+            <img src="./img/event2.png">
+            <h1>
+                <a href="https://insider.in/all-events-in-chennai">Fashion store</a>
+            </h1>
+
+        <hr>
+        <center>
+        <h1>contact</h1>
+        <h2>+91 5678998654</h2>
+        </center>
+
+
+    </body>
+</html>
